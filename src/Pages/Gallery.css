@@ -1,0 +1,20 @@
+.gi {
+    height: 240px;
+    width: 270px;
+    margin-left: 17px;
+}
+
+#bti {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #141414;
+    font-weight: bolder;
+    background-color: rgb(111, 226, 66);
+    border: #48d7f0;
+
+}
+
+#bti:hover {
+    background-color: aqua;
+}

@@ -1,0 +1,100 @@
+.vm {
+    background-image: url('https://media.istockphoto.com/id/1225724659/vector/dreamy-smooth-abstract-blue-green-background.jpg?s=612x612&w=0&k=20&c=ng4_9FSFUlUlP0P4B9kZEhWX1Ke7Lt8rpQXZFwCQc34=');
+    background-size: cover;
+    height: 503px;
+    background-repeat: no-repeat;
+}
+
+.img {
+    height: 140px;
+    width: 400px;
+    /* background-image: url('https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); */
+    background-image: url('https://t3.ftcdn.net/jpg/04/18/52/88/360_F_418528804_xgyFvVsMSHeWk1UgDtR9aoccqSC7BrHy.jpg');
+    float: right;
+    margin-left: 20px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-right: 270px;
+    margin-top: 120px;
+    /* filter: blur(1px); */
+
+}
+
+.umg {
+    height: 160px;
+    width: 450px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4q5Ijzuy8alYpB5zHUc2a-cPJz8cr3WfU0G4MGL-4wDPvprBSZNWWP97adsIUsXC3JCQ&usqp=CAU');
+    float: left;
+    margin-left: 40px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-right: 65px;
+    margin-top: 30px;
+
+}
+
+.sect {
+    margin-right: 185px;
+}
+
+/* #vid {
+    height: 226px;
+    width: 535px;
+    background-image: url('https://images.pexels.com/photos/532173/pexels-photo-532173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    filter: blur(1px);
+} */
+
+#h1 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    color: #eef6f8;
+}
+
+.h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    padding-left: 10px;
+    color: #1cf0a9;
+
+    padding-bottom: 0;
+
+    margin-bottom: 0;
+}
+
+.h6 {
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: large;
+    padding-left: 10px;
+    color: #e4f1f5;
+    margin-top: 0;
+}
+
+.h61 {
+    margin-left: 30px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: large;
+    color: #e4f1f5;
+    margin-top: 0;
+}
+
+#bti {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #141414;
+    font-weight: bolder;
+    background-color: rgb(111, 226, 66);
+    border: #48d7f0;
+
+}
+
+#bti:hover {
+    background-color: aqua;
+}

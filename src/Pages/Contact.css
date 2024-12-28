@@ -1,0 +1,63 @@
+.h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(153, 165, 42);
+    margin: 20px;
+}
+
+.cnt {
+    background-color: rgb(245, 238, 238);
+    height: 445px;
+    width: 390px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-top: 66px;
+    margin-right: 90px;
+    z-index: 1;
+    box-shadow: 2px 2px 2px 2px rgb(236, 224, 208);
+}
+
+#contact {
+    background-color: white;
+    height: 390px;
+    width: 310px;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-top: 2px;
+    margin-right: 40px;
+    z-index: 2;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-size: 15px;
+    color: #5a5a5a;
+}
+
+
+#btt {
+    position: absolute;
+    bottom: 2px;
+    right: 8px;
+    color: #141414;
+    font-weight: bolder;
+    background-color: rgb(111, 226, 66);
+    border: #48d7f0;
+
+}
+
+#btt:hover {
+    background-color: aqua;
+}

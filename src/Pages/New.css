@@ -1,0 +1,38 @@
+.hiv {
+    height: 503px;
+    background-image: url('https://images.pexels.com/photos/8294662/pexels-photo-8294662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#np {
+    color: white;
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+#dnp {
+    height: 400px;
+    width: 300px;
+}
+
+#ns {
+    color: rgb(153, 165, 42);
+}
+
+#bt1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #141414;
+    font-weight: bolder;
+    background-color: rgb(111, 226, 66);
+    border: #48d7f0;
+
+}
+
+#bt1:hover {
+    background-color: aqua;
+}
